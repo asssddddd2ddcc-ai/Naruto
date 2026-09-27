@@ -1,0 +1,14 @@
+{
+  "name": "naruto-railway-panel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Naruto themed configuration management panel for Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "better-sqlite3": "^11.8.1"
+  }
+}
